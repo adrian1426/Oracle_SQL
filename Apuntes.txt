@@ -1,0 +1,7 @@
+.-Una entidad siempre es en Singular, ej (Departamento,Usuario)
+en diagrama, cuando se pasa a bd si es em plural.
+.-definir atributos opcionales(o) y obligatorios(*)
+
+Entidad >> Tabla
+Atributo >> Columna
+Tupla >> Fila
